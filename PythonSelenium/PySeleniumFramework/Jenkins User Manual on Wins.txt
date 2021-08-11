@@ -1,0 +1,5 @@
+# install a plugin
+http://localhost:8080/cli/ ==> download the jenkins-cli.jar
+# and run in CMD
+java -jar jenkins-cli.jar -s http://127.0.0.1:8080/ -auth eggboss:melody install-plugin pyenv-pipeline:2.1.2
+java -jar jenkins-cli.jar -s http://127.0.0.1:8080/ -auth eggboss:melody install-plugin shiningpanda:0.24
