@@ -1,0 +1,26 @@
+2021-07-27 23:17:10,769 :INFO :pytestsDemo.test_logging :Information statement
+2021-07-27 23:17:10,769 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2021-07-27 23:17:10,769 :ERROR :pytestsDemo.test_logging :A Major error has happened, such as assertion error
+2021-07-27 23:17:10,769 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2021-08-01 12:53:43,372 :INFO :PythonSelenium.pytestsDemo.BaseClass :Rahul
+2021-08-01 12:53:43,372 :INFO :PythonSelenium.pytestsDemo.BaseClass :rahulshettyacademy.com
+2021-08-01 12:57:38,275 :INFO :test_editProfile :Rahul
+2021-08-01 12:57:38,276 :INFO :test_editProfile :rahulshettyacademy.com
+2021-08-01 13:04:21,038 :INFO :test_editProfile :Rahul
+2021-08-01 13:04:21,038 :INFO :test_editProfile :rahulshettyacademy.com
+2021-08-01 13:04:21,049 :INFO :pytestsDemo.test_logging :Information statement
+2021-08-01 13:04:21,049 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2021-08-01 13:04:21,049 :ERROR :pytestsDemo.test_logging :A Major error has happened, such as assertion error
+2021-08-01 13:04:21,049 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2021-08-01 13:07:43,705 :INFO :test_editProfile :Rahul
+2021-08-01 13:07:43,706 :INFO :test_editProfile :rahulshettyacademy.com
+2021-08-01 13:07:43,715 :INFO :pytestsDemo.test_logging :Information statement
+2021-08-01 13:07:43,716 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2021-08-01 13:07:43,716 :ERROR :pytestsDemo.test_logging :A Major error has happened, such as assertion error
+2021-08-01 13:07:43,716 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2021-08-01 13:17:00,938 :INFO :test_editProfile :Rahul
+2021-08-01 13:17:00,938 :INFO :test_editProfile :rahulshettyacademy.com
+2021-08-01 13:17:00,949 :INFO :pytestsDemo.test_logging :Information statement
+2021-08-01 13:17:00,949 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2021-08-01 13:17:00,949 :ERROR :pytestsDemo.test_logging :A Major error has happened, such as assertion error
+2021-08-01 13:17:00,949 :CRITICAL :pytestsDemo.test_logging :Critical issue
