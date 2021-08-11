@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-driver = webdriver.Chrome(executable_path='F:\\selenium\chromedriver.exe')
+driver = webdriver.Chrome(executable_path='C:\\selenium\chromedriver.exe')
 # driver.implicitly_wait(5)
 '''
 # wait until 5 seconds if object is not displayed, globally applied
